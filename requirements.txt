@@ -6,4 +6,4 @@ pyparsing==2.4.6
 python-dateutil==2.8.1
 six==1.14.0
 torch==1.4.0
-torchdiffeq==0.0.1
+git+git://github.com/rtqichen/torchdiffeq@fef5d28bf91cc3b19bc7d549639d073c036763d1

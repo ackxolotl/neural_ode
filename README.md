@@ -9,6 +9,5 @@ Final project for the practical course "Machine Learning in Crowd Modeling & Sim
 3. `cd neural_ode`
 4. `python3 -m venv venv`
 5. `source venv/bin/activate`
-6. `pip install git+https://github.com/rtqichen/torchdiffeq`
-7. `pip install -r requirements.txt`
-8. `python main.py`
+6. `pip install -r requirements.txt`
+7. `python main.py`
