@@ -12,3 +12,5 @@ Final project for the practical course "Machine Learning in Crowd Modeling & Sim
 6. `pip install git+https://github.com/rtqichen/torchdiffeq`
 7. `pip install -r requirements.txt`
 8. `python main.py`
+
+To recreate the figures from the report, run `python main.py`.
